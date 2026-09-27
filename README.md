@@ -1,4 +1,4 @@
-# prim-cleanup
+# prims-cleanup
 
 Living **plan** for Prim Foundation org cleanup and consolidation.
 
